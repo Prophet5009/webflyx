@@ -1,0 +1,109 @@
+[33mcommit 4fc4c616e29b3b584146e551daa3964b674c3254[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Sun Apr 20 13:28:54 2025 +0200
+
+    M: added guilty_pleasure and passwords
+
+[33mcommit 92aef9bd73a34faa409caca755ad65a30b076de4[m
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Sun Apr 20 13:23:33 2025 +0200
+
+    Revert "M: added .gitignore"
+    
+    This reverts commit 5aecf60fd05a61f94ce6b700ddcbedd4ff700848.
+
+[33mcommit 23360a1e5c25abac0937bff6a367a50cc635e08a[m
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Sun Apr 20 13:22:35 2025 +0200
+
+    M: Added secure and guilty pleasure
+
+[33mcommit 5aecf60fd05a61f94ce6b700ddcbedd4ff700848[m
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Sun Apr 20 13:00:55 2025 +0200
+
+    M: added .gitignore
+
+[33mcommit 43e26842986f2fa88fc3280bd59b1ee48fe7c062[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 42980d2 0f6c9fa
+Author: Prophet5009 <ma.hosp15@gmail.com>
+Date:   Sun Apr 20 12:53:51 2025 +0200
+
+    Merge pull request #1 from Prophet5009/add_classics
+    
+    Add classics
+
+[33mcommit 0f6c9fa40870440cef2368191febee056cc9e702[m[33m ([m[1;31morigin/add_classics[m[33m)[m
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Sun Apr 20 12:44:29 2025 +0200
+
+    L: updated classics.csv
+
+[33mcommit ad344e1f8bd730289b4121c42b73d40c45833a75[m
+Merge: 42980d2 f1137a1
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Sun Apr 20 12:25:51 2025 +0200
+
+    K: merged update_dune
+
+[33mcommit 42980d2a662ce615dc62b37728934dce29107eb7[m
+Author: Prophet5009 <ma.hosp15@gmail.com>
+Date:   Sun Apr 20 12:23:50 2025 +0200
+
+    J: Update classics.csv
+
+[33mcommit f1137a1daa091944f3e855d654716e146e89957b[m[33m ([m[1;32mupdate_dune[m[33m)[m
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Sat Apr 19 17:15:18 2025 +0200
+
+    I: added new quote
+
+[33mcommit 22964dcb24e912aae8c6529bff1bb39d2db7ffb7[m
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Sat Apr 19 17:14:18 2025 +0200
+
+    H: added new quote
+
+[33mcommit 62ff7f9317f3a16dba03e1d76143fb039d587f02[m
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Sat Apr 19 16:58:50 2025 +0200
+
+    G: updated titles.md
+
+[33mcommit cd0509eb9484e65a68809c22ecb0e20637b195d2[m
+Merge: 2346a62 dce497d
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Sat Apr 19 16:43:19 2025 +0200
+
+    Merge branch 'add_classics'
+    F: Merge branch 'add_classics'
+
+[33mcommit 2346a62bc664c576ad57beeb79f66fb645c1bf08[m
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Sat Apr 19 16:40:54 2025 +0200
+
+    E: updated contents.md with new values
+
+[33mcommit dce497df471da691caeec1ac9f7f5fd56dea0fa3[m
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Sat Apr 19 16:25:15 2025 +0200
+
+    D: add classics.csv
+
+[33mcommit dcaf5d5d02098fb6348fd7f3cb0c80205c9c46ef[m
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Fri Apr 4 11:15:03 2025 +0200
+
+    C: add quotes
+
+[33mcommit 134beb3eee7ae15c2e0b264eefd193ab877278f6[m
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Fri Apr 4 10:47:41 2025 +0200
+
+    B: add titles.md
+
+[33mcommit e5fd380ec1f12467f5f71d6b2aa84ded7659d7af[m
+Author: Matthias Hosp <ma.hosp15@gmail.com>
+Date:   Thu Mar 27 10:15:22 2025 +0100
+
+    A: add contents.md
